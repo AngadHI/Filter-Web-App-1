@@ -1,0 +1,9 @@
+canvas {
+    border: solid white 3px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+
+#save_button{
+    margin-top: 30px;
+}
